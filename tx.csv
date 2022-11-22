@@ -1,0 +1,5 @@
+hostname,vendor,model,location
+sw1,Cisco,1234,London
+sw2,Cisco,1256,Minsk
+sw3,Cisco,4875,London
+sw4,Cisco,8930,Minsk
